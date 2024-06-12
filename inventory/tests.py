@@ -1,6 +1,7 @@
 from django.test import TestCase
 from .models import Item, Supplier
 
+
 # Create your tests here.
 class InventoryTests(TestCase):
     def setUp(self):
