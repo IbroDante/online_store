@@ -4,7 +4,7 @@ Online Store Inventory and Supplier Management API
 # Overview
 This project implements an API for managing inventory items and suppliers for an online store. The API is built using Django REST Framework and allows for CRUD operations on items and suppliers, as well establishing relationships between them.
 
-### Prerequisites
+# Prerequisites
 - Python 3.8+
 - Django 3.2+
 - Django REST Framework
