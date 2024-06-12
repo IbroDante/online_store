@@ -2,6 +2,7 @@ from rest_framework import viewsets
 from .models import Item, Supplier
 from .serializers import ItemSerializer, ItemDetailSerializer, SupplierSerializer, SupplierDetailSerializer
 
+
 class ItemViewSet(viewsets.ModelViewSet):
     queryset = Item.objects.all()
 
