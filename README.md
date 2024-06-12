@@ -68,6 +68,7 @@ Response:
         ]
     },
 ]
+
 ## Create a new item:
 
 Endpoint /api/items/ 
@@ -180,6 +181,7 @@ Response:
         ]
     },
 ]
+
 ## Create a new supplier:
 
 Endpoint: /api/suppliers
@@ -207,6 +209,7 @@ Response:
         
     ]
 }
+
 ## Retrieve supplier:
 
 Endpoint: /api/suppliers/id/
@@ -228,6 +231,7 @@ Response:
         
     ]
 }
+
 ## Update a supplier:
 
 Endpoint: /api/suppliers/id/
@@ -254,6 +258,7 @@ Response:
         }
     ]
 }
+
 ## Delete a supplier:
 
 Endpoint: /api/suppliers/id/
